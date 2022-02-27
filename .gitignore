@@ -139,6 +139,6 @@ configs/secrets.yaml
 
 # add your env folder here if its there
 
-data/
+#data/   -- keep it commented in general cases .Here since the size is less.
 *.bin
 mlruns/
